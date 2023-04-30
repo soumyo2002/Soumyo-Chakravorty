@@ -36,24 +36,6 @@ I am a tech enthusiast and a coding enthusiast. I like working on different codi
   ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor
 
-
-# Blog posts 📝
-<!-- BLOG-POST-LIST:START -->
-- [Tool to Cross-Post Your Blogs in One Click](https://dev.to/uzairali10/tool-to-cross-post-your-blogs-in-one-click-2m7k)
-- [How to use pipenv in your python project](https://dev.to/uzairali10/how-to-use-pipenv-in-your-python-project-6p0)
-- [How to run local redis server in Docker container](https://dev.to/uzairali10/how-to-run-local-redis-server-in-docker-container-1b4)
-- [Setting Up Golang in Windows 10 using Scoop and Winget](https://dev.to/uzairali10/setting-up-golang-in-windows-10-using-scoop-and-winget-33ij)
-- [What is CI/CD and why is it important for software development?](https://dev.to/uzairali10/what-is-ci-cd-and-why-is-it-important-for-software-development-2h90)
-<!-- BLOG-POST-LIST:END -->
-
-
-## 📈 My GitHub Stats
-
-[![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzaxirr&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzaxirr&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 #### Thanks for visiting my profile, Let's connect and grow together 👋
 
 
